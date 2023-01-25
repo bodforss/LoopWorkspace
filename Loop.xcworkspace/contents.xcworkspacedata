@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:import_localizations.sh">
+   </FileRef>
+   <FileRef
+      location = "group:export_localizations.sh">
+   </FileRef>
+   <FileRef
       location = "container:LoopConfigOverride.xcconfig">
    </FileRef>
    <FileRef
